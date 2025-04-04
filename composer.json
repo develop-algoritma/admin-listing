@@ -1,5 +1,5 @@
 {
-    "name": "brackets/admin-listing",
+    "name": "develop-algoritma/admin-listing",
     "description": "Query-building helper for listing of Eloquent models",
     "keywords": [
         "listing",
@@ -32,15 +32,15 @@
         }
     ],
     "require": {
-        "php": "^7.2.5|^7.3.0|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
+        "php": "^8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*|^1.0",
-        "phpunit/phpunit": "^8.5|^9.0|^10.0",
+        "phpunit/phpunit": "^9.0|^10.0|^11.0",
         "orchestra/testbench": "~4.0|~5.0|~6.0|~7.0|~8.0",
-        "brackets/translatable": "^2.0",
-        "fakerphp/faker": "^1.19"
+        "develop-algoritma/translatable": "dev-master",
+        "fakerphp/faker": "^1.*"
     },
     "autoload": {
         "classmap": [],

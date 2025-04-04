@@ -58,9 +58,6 @@
             "providers": [
                 "Brackets\\AdminListing\\AdminListingServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "3.1-dev"
         }
     }
 }
